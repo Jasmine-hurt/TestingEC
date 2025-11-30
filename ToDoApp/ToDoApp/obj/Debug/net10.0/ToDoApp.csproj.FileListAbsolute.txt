@@ -1,0 +1,15 @@
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/bin/Debug/net10.0/ToDoApp
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/bin/Debug/net10.0/ToDoApp.deps.json
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/bin/Debug/net10.0/ToDoApp.runtimeconfig.json
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/bin/Debug/net10.0/ToDoApp.dll
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/bin/Debug/net10.0/ToDoApp.pdb
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.AssemblyInfoInputs.cache
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.AssemblyInfo.cs
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.csproj.CoreCompileInputs.cache
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.sourcelink.json
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.dll
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/refint/ToDoApp.dll
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.pdb
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ToDoApp.genruntimeconfig.cache
+/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/Debug/net10.0/ref/ToDoApp.dll
