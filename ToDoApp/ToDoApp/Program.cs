@@ -27,7 +27,7 @@ namespace ToDoApp
                 }
                 else if (input == "2")
                 {
-                    Console.WriteLine("\n");
+                    Console.WriteLine();
                     var allItems = await controller.ListAll();
                     foreach (var item in allItems)
                     {
