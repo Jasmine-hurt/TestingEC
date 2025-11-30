@@ -11,7 +11,7 @@ public class ToDoRepository : IToDoRepository
     private int _nextId = 1;
 
     //Assigns an id to each task as its added to the ToDo List
-    public Task AddTask(ToDoItem item)
+    public Task AddItem(ToDoItem item)
     {
         item.Id = _nextId++;
         _items.Add(new ToDoItem
@@ -24,7 +24,7 @@ public class ToDoRepository : IToDoRepository
     }
 
     //Returns a list of all of the ToDo Items
-    public Task<List<ToDoItem>> GetAllTasks()
+    public Task<List<ToDoItem>> GetAllItems()
     {
         return Task.FromResult(_items.Select(i => new ToDoItem
         {
@@ -35,7 +35,7 @@ public class ToDoRepository : IToDoRepository
     }
 
     //Removes Items based on id from the list 
-    public Task<bool> RemoveTask(int id)
+    public Task<bool> RemoveItem(int id)
     {
         var existing = _items.FirstOrDefault(i => i.Id == id);
         if (existing == null) return Task.FromResult(false);

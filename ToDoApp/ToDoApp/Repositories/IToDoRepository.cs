@@ -3,7 +3,7 @@ namespace ToDoApp.Repositories;
 
 public interface IToDoRepository
 {
-    Task AddTask(ToDoItem item);
-    Task<List<ToDoItem>> GetAllTasks();
-    Task<bool> RemoveTask(int id);
+    Task AddItem(ToDoItem item);
+    Task<List<ToDoItem>> GetAllItems();
+    Task<bool> RemoveItem(int id);
 }
