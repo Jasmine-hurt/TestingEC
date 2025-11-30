@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/ToDoApp.csproj",
-      "projectName": "ToDoApp",
-      "projectPath": "/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/ToDoApp.csproj",
+      "projectUniqueName": "/Users/jasminehurt/TestingEC/ToDoApp/ToDoAppTests/ToDoAppTests.csproj",
+      "projectName": "ToDoAppTests",
+      "projectPath": "/Users/jasminehurt/TestingEC/ToDoApp/ToDoAppTests/ToDoAppTests.csproj",
       "packagesPath": "/Users/jasminehurt/.nuget/packages/",
-      "outputPath": "/Users/jasminehurt/TestingEC/ToDoApp/ToDoApp/obj/",
+      "outputPath": "/Users/jasminehurt/TestingEC/ToDoApp/ToDoAppTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jasminehurt/.nuget/NuGet/NuGet.Config"
